@@ -48,7 +48,8 @@ npx react-native run-android  # For Android
 
 ![home](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/60fb34a8-a53a-454d-92f9-6db902c975c6)
 ![create](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/36475ae7-2de2-4e9f-a9fb-3ceef81ac8d0)
-![Uploading edit.png…]()
+![edit](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/01f7943a-647b-45a6-9b37-395331c09347)
+
 
 
 
