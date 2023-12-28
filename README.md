@@ -13,12 +13,16 @@ Persistent Storage: Matches are stored locally for easy retrieval and management
 
 bash
 git clone https://github.com/your-username/fantasy-match-scheduler.git
+
+
 Install Dependencies:
 
-bash
+
 cd fantasy-match-scheduler
+
 npm install
+
+
 Run the App:
 
-bash
 npx react-native run-android  # For Android
