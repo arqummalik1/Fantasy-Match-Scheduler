@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/arqummalik/Downloads/FantasyMatch/FantasyMatch/FantasyMatch/android/app"
+    name=":app"
+    type="APP"
+    maven="FantasyMatch:app:"
+    gradle="7.1.1"
+    buildFolder="build"
+    bootClassPath="/Users/arqummalik/Library/Android/sdk/platforms/android-32/android.jar:/Users/arqummalik/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
