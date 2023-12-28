@@ -43,3 +43,11 @@ npm install
 Run the App:
 
 npx react-native run-android  # For Android
+
+# Screenshots 
+
+![Screenshot_1703772083](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/40841855-9e36-47ed-ba2b-40d31ab11993)
+![Screenshot_1703772086](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/b10c4d31-c55f-461c-9f53-44da595831d3)
+![Screenshot_1703772091](https://github.com/arqummalik1/Fantasy-Match-Scheduler/assets/55286684/d957141a-2918-4383-ac5f-7e7425c4ec5a)
+
+
