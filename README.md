@@ -1,5 +1,5 @@
 # Fantasy-Match-Scheduler
-Welcome to the Fantasy Match Scheduler app repository! This mobile application, built using React Native, allows users to schedule fantasy sports matches effortlessly. Whether you're organizing gaming sessions or managing leagues, this app provides a user-friendly interface to create and manage match schedules.
+Welcome to the Fantasy Match Scheduler app repository! This mobile application, built using React Native, allows users to effortlessly schedule and manage fantasy sports matches. Whether you're organizing gaming sessions or managing leagues, this app provides a user-friendly interface to create, read, update, and delete CRUD)  match schedules.
 # Key Features:
 Intuitive UI: Enjoy a clean and user-friendly interface for easy navigation and scheduling.
 
@@ -12,6 +12,18 @@ Overlap Prevention: The app intelligently prevents scheduling overlapping time s
 Repeat Matches: Schedule recurring matches with the repeat match feature.
 
 Persistent Storage: Matches are stored locally for easy retrieval and management.
+
+#CRUD Operations:
+Create: Add new matches with detailed information.
+
+Read: View scheduled matches with date, time, and other relevant details.
+
+Update: Modify existing matches, adjust dates, or edit time slots.
+
+Delete: Remove unwanted matches to keep your schedule organized.
+
+Persistent Storage: Matches are stored locally for easy retrieval and management.
+
 
 # Getting Started:
 
